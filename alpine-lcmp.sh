@@ -1,14 +1,6 @@
 #!/bin/bash
 #
-# LCMP (Linux + Caddy + MariaDB + PHP) Installation Script
-# Version: 2.0.0
-# Author: Teddysun <i@teddysun.com>
-# Modified by: Claude
-#
-# Copyright (C) 2023 - 2025
-#
-# This script is licensed under the MIT License.
-# See LICENSE file for details.
+# LCMP (Linux + Caddy + MariaDB + PHP+Redis) Installation Script
 
 # 设置错误处理
 set -e
